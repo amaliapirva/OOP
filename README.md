@@ -31,5 +31,7 @@ Clase abstracte și metode abstracte.
 Folosirea cuvintelor cheie extends și super.
 
 🎯 Scop
+
 ✔️ Consolidarea cunoștințelor de bază în Java prin exerciții practice.
+
 ✔️ Ghid de referință rapid pentru conceptele esențiale OOP
